@@ -42,7 +42,3 @@ California Housing dataset (`fetch_california_housing`), randomly sampled to 1,0
 
 ## Use of Generative AI
 Generative AI tools (ChatGPT, Claude) were used as learning partners: to explain concepts (admissible heuristics, feature scaling, regularisation, cross-validation), to check calculations, and to help write code comments. All AI prompts and syntheses are logged in the PDF report.
-
-## Group members
-- Name 1: contribution
-- Name 2: contribution
